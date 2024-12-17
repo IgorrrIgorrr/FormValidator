@@ -1,0 +1,1 @@
+{"models": {"1": {"name": "Order Form", "user_email": "email", "order_date": "date"}, "2": {"name": "Feedback Form", "customer_phone": "phone", "feedback_text": "text"}}, "_default": {"1": {"name": "Order Form", "user_email": "email", "order_date": "date"}, "2": {"name": "Feedback Form", "customer_phone": "phone", "feedback_text": "text"}}}
