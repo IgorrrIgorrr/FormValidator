@@ -3,7 +3,7 @@ from tinydb import TinyDB
 db = TinyDB("formvalidator/database.json")
 
 
-def init_db():
+def init_db() -> None:
     if not db.all():
         db.insert(
             {
